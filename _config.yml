@@ -1,0 +1,8 @@
+title: trox-hq blog
+description: 강남·홍대·송파 가라오케·단란주점 사장님 마케팅 인사이트
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+permalink: /:slug/
